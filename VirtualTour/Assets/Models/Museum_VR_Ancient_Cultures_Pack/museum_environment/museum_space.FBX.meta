@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: f2752e3e723c56c48b2ff5321b39cf26
+timeCreated: 1491099741
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: DOOR_frame001
+    100002: DOOR_frame003
+    100004: DOOR_frame004
+    100006: DOOR_frame005
+    100008: floor_vol004
+    100010: floor_vol007
+    100012: floor_vol2
+    100014: Group009
+    100016: Group010
+    100018: //RootNode
+    100020: Object064
+    100022: Object066
+    100024: Object067
+    100026: Object068
+    100028: Object069
+    100030: Rectangle014
+    100032: doors1
+    100034: floor_hall1
+    100036: floor_hall2
+    100038: floor_hall3
+    100040: frame003
+    100042: frame1
+    100044: frame2
+    100046: frames3
+    100048: frames4
+    100050: frames_stucco
+    100052: golden_frame
+    100054: hall1_walls
+    100056: hall2_walls
+    100058: hall3_walls
+    100060: bounding_box
+    100062: frames_roof
+    100064: frames_roof 1
+    100066: glass_hall002
+    100068: glass_hall1
+    100070: museum_space
+    100072: frames_roof 2
+    100074: glass_hall3
+    100076: Object065
+    100078: block
+    100080: Line001
+    400000: DOOR_frame001
+    400002: DOOR_frame003
+    400004: DOOR_frame004
+    400006: DOOR_frame005
+    400008: floor_vol004
+    400010: floor_vol007
+    400012: floor_vol2
+    400014: Group009
+    400016: Group010
+    400018: //RootNode
+    400020: Object064
+    400022: Object066
+    400024: Object067
+    400026: Object068
+    400028: Object069
+    400030: Rectangle014
+    400032: doors1
+    400034: floor_hall1
+    400036: floor_hall2
+    400038: floor_hall3
+    400040: frame003
+    400042: frame1
+    400044: frame2
+    400046: frames3
+    400048: frames4
+    400050: frames_stucco
+    400052: golden_frame
+    400054: hall1_walls
+    400056: hall2_walls
+    400058: hall3_walls
+    400060: bounding_box
+    400062: frames_roof
+    400064: frames_roof 1
+    400066: glass_hall002
+    400068: glass_hall1
+    400070: museum_space
+    400072: frames_roof 2
+    400074: glass_hall3
+    400076: Object065
+    400078: block
+    400080: Line001
+    2300000: DOOR_frame001
+    2300002: DOOR_frame003
+    2300004: DOOR_frame004
+    2300006: DOOR_frame005
+    2300008: floor_vol004
+    2300010: floor_vol007
+    2300012: floor_vol2
+    2300014: Object064
+    2300016: Object066
+    2300018: Object067
+    2300020: Object068
+    2300022: Object069
+    2300024: Rectangle014
+    2300026: doors1
+    2300028: floor_hall1
+    2300030: floor_hall2
+    2300032: floor_hall3
+    2300034: frame003
+    2300036: frame1
+    2300038: frame2
+    2300040: frames3
+    2300042: frames4
+    2300044: frames_stucco
+    2300046: golden_frame
+    2300048: hall1_walls
+    2300050: hall2_walls
+    2300052: hall3_walls
+    2300054: bounding_box
+    2300056: frames_roof
+    2300058: frames_roof 1
+    2300060: glass_hall002
+    2300062: glass_hall1
+    2300064: frames_roof 2
+    2300066: glass_hall3
+    2300068: Object065
+    2300070: block
+    2300072: Line001
+    3300000: DOOR_frame001
+    3300002: DOOR_frame003
+    3300004: DOOR_frame004
+    3300006: DOOR_frame005
+    3300008: floor_vol004
+    3300010: floor_vol007
+    3300012: floor_vol2
+    3300014: Object064
+    3300016: Object066
+    3300018: Object067
+    3300020: Object068
+    3300022: Object069
+    3300024: Rectangle014
+    3300026: doors1
+    3300028: floor_hall1
+    3300030: floor_hall2
+    3300032: floor_hall3
+    3300034: frame003
+    3300036: frame1
+    3300038: frame2
+    3300040: frames3
+    3300042: frames4
+    3300044: frames_stucco
+    3300046: golden_frame
+    3300048: hall1_walls
+    3300050: hall2_walls
+    3300052: hall3_walls
+    3300054: bounding_box
+    3300056: frames_roof
+    3300058: frames_roof 1
+    3300060: glass_hall002
+    3300062: glass_hall1
+    3300064: frames_roof 2
+    3300066: glass_hall3
+    3300068: Object065
+    3300070: block
+    3300072: Line001
+    4300000: floor_vol2
+    4300002: floor_vol004
+    4300004: Rectangle014
+    4300006: floor_vol007
+    4300008: DOOR_frame004
+    4300010: DOOR_frame005
+    4300012: Object067
+    4300014: Object068
+    4300016: Object066
+    4300018: DOOR_frame003
+    4300020: Object064
+    4300022: DOOR_frame001
+    4300024: Object069
+    4300026: floor_hall3
+    4300028: hall3_walls
+    4300030: hall1_walls
+    4300032: golden_frame
+    4300034: hall2_walls
+    4300036: frames_stucco
+    4300038: floor_hall1
+    4300040: floor_hall2
+    4300042: frame2
+    4300044: frame1
+    4300046: frame003
+    4300048: doors1
+    4300050: frames3
+    4300052: frames4
+    4300054: glass_hall1
+    4300056: frames_roof
+    4300058: frames_roof
+    4300060: glass_hall002
+    4300062: bounding_box
+    4300064: Object065
+    4300066: glass_hall3
+    4300068: frames_roof
+    4300070: block
+    4300072: Line001
+    6400000: doors1
+    6400002: floor_hall1
+    6400004: floor_hall2
+    6400006: floor_hall3
+    6400008: frame003
+    6400010: frame1
+    6400012: frame2
+    6400014: frames3
+    6400016: frames4
+    6400018: frames_stucco
+    6400020: golden_frame
+    6400022: hall1_walls
+    6400024: hall2_walls
+    6400026: hall3_walls
+    6400028: bounding_box
+    6400030: frames_roof
+    6400032: frames_roof 1
+    6400034: glass_hall002
+    6400036: glass_hall1
+    6400038: Object064
+    6400040: frames_roof 2
+    6400042: glass_hall3
+    6400044: Object065
+    6400046: block
+    6400048: Line001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 14
+    secondaryUVAreaDistortion: 14
+    secondaryUVHardAngle: 144
+    secondaryUVPackMargin: 16
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

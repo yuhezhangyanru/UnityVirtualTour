@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 2f97e3fc097576e4aa550b4e2fb8e777
+timeCreated: 1459588888
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: alocasiaLeaf01
+    100002: alocasiaLeaf02
+    100004: alocasiaLeaf03
+    100006: alocasiaLeaf04
+    100008: alocasiaLeaf05
+    100010: alocasiaLeaf06
+    100012: alocasiaLeaf07
+    100014: alocasiaLeaf08
+    100016: alocasiaLeaf09
+    100018: alocasiaStems
+    100020: //RootNode
+    100022: alocasiaLeaf_01
+    100024: alocasiaLeaf_02
+    100026: alocasiaLeaf_03
+    100028: alocasiaLeaf_04
+    100030: alocasiaLeaf_05
+    100032: alocasiaLeaf_06
+    100034: alocasiaLeaf_07
+    100036: alocasiaLeaf_08
+    100038: alocasiaLeaf_09
+    400000: alocasiaLeaf01
+    400002: alocasiaLeaf02
+    400004: alocasiaLeaf03
+    400006: alocasiaLeaf04
+    400008: alocasiaLeaf05
+    400010: alocasiaLeaf06
+    400012: alocasiaLeaf07
+    400014: alocasiaLeaf08
+    400016: alocasiaLeaf09
+    400018: alocasiaStems
+    400020: //RootNode
+    400022: alocasiaLeaf_01
+    400024: alocasiaLeaf_02
+    400026: alocasiaLeaf_03
+    400028: alocasiaLeaf_04
+    400030: alocasiaLeaf_05
+    400032: alocasiaLeaf_06
+    400034: alocasiaLeaf_07
+    400036: alocasiaLeaf_08
+    400038: alocasiaLeaf_09
+    2300000: alocasiaLeaf01
+    2300002: alocasiaLeaf02
+    2300004: alocasiaLeaf03
+    2300006: alocasiaLeaf04
+    2300008: alocasiaLeaf05
+    2300010: alocasiaLeaf06
+    2300012: alocasiaLeaf07
+    2300014: alocasiaLeaf08
+    2300016: alocasiaLeaf09
+    2300018: alocasiaStems
+    2300020: alocasiaLeaf_01
+    2300022: alocasiaLeaf_02
+    2300024: alocasiaLeaf_03
+    2300026: alocasiaLeaf_04
+    2300028: alocasiaLeaf_05
+    2300030: alocasiaLeaf_06
+    2300032: alocasiaLeaf_07
+    2300034: alocasiaLeaf_08
+    2300036: alocasiaLeaf_09
+    3300000: alocasiaLeaf01
+    3300002: alocasiaLeaf02
+    3300004: alocasiaLeaf03
+    3300006: alocasiaLeaf04
+    3300008: alocasiaLeaf05
+    3300010: alocasiaLeaf06
+    3300012: alocasiaLeaf07
+    3300014: alocasiaLeaf08
+    3300016: alocasiaLeaf09
+    3300018: alocasiaStems
+    3300020: alocasiaLeaf_01
+    3300022: alocasiaLeaf_02
+    3300024: alocasiaLeaf_03
+    3300026: alocasiaLeaf_04
+    3300028: alocasiaLeaf_05
+    3300030: alocasiaLeaf_06
+    3300032: alocasiaLeaf_07
+    3300034: alocasiaLeaf_08
+    3300036: alocasiaLeaf_09
+    4300000: alocasiaLeaf02
+    4300002: alocasiaLeaf03
+    4300004: alocasiaLeaf07
+    4300006: alocasiaLeaf09
+    4300008: alocasiaLeaf05
+    4300010: alocasiaLeaf06
+    4300012: alocasiaStems
+    4300014: alocasiaLeaf04
+    4300016: alocasiaLeaf08
+    4300018: alocasiaLeaf01
+    4300020: alocasiaLeaf_02
+    4300022: alocasiaLeaf_03
+    4300024: alocasiaLeaf_07
+    4300026: alocasiaLeaf_09
+    4300028: alocasiaLeaf_05
+    4300030: alocasiaLeaf_06
+    4300032: alocasiaLeaf_04
+    4300034: alocasiaLeaf_08
+    4300036: alocasiaLeaf_01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
