@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: fcd7b68a16fda894bb6e2c5e11747a1d
+timeCreated: 1459588895
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bananaTree01_Leaf01
+    100002: bananaTree01_Leaf02
+    100004: bananaTree01_Leaf03
+    100006: bananaTree01_Leaf04
+    100008: bananaTree01_Leaf05
+    100010: bananaTree01_Leaf06
+    100012: bananaTree01_Leaf07
+    100014: bananaTree01_Leaf08
+    100016: bananaTree01_Leaf09
+    100018: bananaTree01_smallLeaf01
+    100020: bananaTree01_smallLeaf02
+    100022: bananaTree01_trunk
+    100024: bananaTree2_grass01
+    100026: bananaTree2_grass02
+    100028: bananaTree2_grass03
+    100030: bananaTree2_grass04
+    100032: bananaTree_01_Dried_Leafs
+    100034: //RootNode
+    100036: bananaTree01_Leaf_01
+    100038: bananaTree01_Leaf_02
+    100040: bananaTree01_Leaf_03
+    100042: bananaTree01_Leaf_04
+    100044: bananaTree01_Leaf_05
+    100046: bananaTree01_Leaf_06
+    100048: bananaTree01_Leaf_07
+    100050: bananaTree01_Leaf_08
+    100052: bananaTree01_Leaf_09
+    100054: bananaTree01_smallLeaf_01
+    100056: bananaTree01_smallLeaf_02
+    400000: bananaTree01_Leaf01
+    400002: bananaTree01_Leaf02
+    400004: bananaTree01_Leaf03
+    400006: bananaTree01_Leaf04
+    400008: bananaTree01_Leaf05
+    400010: bananaTree01_Leaf06
+    400012: bananaTree01_Leaf07
+    400014: bananaTree01_Leaf08
+    400016: bananaTree01_Leaf09
+    400018: bananaTree01_smallLeaf01
+    400020: bananaTree01_smallLeaf02
+    400022: bananaTree01_trunk
+    400024: bananaTree2_grass01
+    400026: bananaTree2_grass02
+    400028: bananaTree2_grass03
+    400030: bananaTree2_grass04
+    400032: bananaTree_01_Dried_Leafs
+    400034: //RootNode
+    400036: bananaTree01_Leaf_01
+    400038: bananaTree01_Leaf_02
+    400040: bananaTree01_Leaf_03
+    400042: bananaTree01_Leaf_04
+    400044: bananaTree01_Leaf_05
+    400046: bananaTree01_Leaf_06
+    400048: bananaTree01_Leaf_07
+    400050: bananaTree01_Leaf_08
+    400052: bananaTree01_Leaf_09
+    400054: bananaTree01_smallLeaf_01
+    400056: bananaTree01_smallLeaf_02
+    2300000: bananaTree01_Leaf01
+    2300002: bananaTree01_Leaf02
+    2300004: bananaTree01_Leaf03
+    2300006: bananaTree01_Leaf04
+    2300008: bananaTree01_Leaf05
+    2300010: bananaTree01_Leaf06
+    2300012: bananaTree01_Leaf07
+    2300014: bananaTree01_Leaf08
+    2300016: bananaTree01_Leaf09
+    2300018: bananaTree01_smallLeaf01
+    2300020: bananaTree01_smallLeaf02
+    2300022: bananaTree01_trunk
+    2300024: bananaTree2_grass01
+    2300026: bananaTree2_grass02
+    2300028: bananaTree2_grass03
+    2300030: bananaTree2_grass04
+    2300032: bananaTree_01_Dried_Leafs
+    2300034: bananaTree01_Leaf_01
+    2300036: bananaTree01_Leaf_02
+    2300038: bananaTree01_Leaf_03
+    2300040: bananaTree01_Leaf_04
+    2300042: bananaTree01_Leaf_05
+    2300044: bananaTree01_Leaf_06
+    2300046: bananaTree01_Leaf_07
+    2300048: bananaTree01_Leaf_08
+    2300050: bananaTree01_Leaf_09
+    2300052: bananaTree01_smallLeaf_01
+    2300054: bananaTree01_smallLeaf_02
+    3300000: bananaTree01_Leaf01
+    3300002: bananaTree01_Leaf02
+    3300004: bananaTree01_Leaf03
+    3300006: bananaTree01_Leaf04
+    3300008: bananaTree01_Leaf05
+    3300010: bananaTree01_Leaf06
+    3300012: bananaTree01_Leaf07
+    3300014: bananaTree01_Leaf08
+    3300016: bananaTree01_Leaf09
+    3300018: bananaTree01_smallLeaf01
+    3300020: bananaTree01_smallLeaf02
+    3300022: bananaTree01_trunk
+    3300024: bananaTree2_grass01
+    3300026: bananaTree2_grass02
+    3300028: bananaTree2_grass03
+    3300030: bananaTree2_grass04
+    3300032: bananaTree_01_Dried_Leafs
+    3300034: bananaTree01_Leaf_01
+    3300036: bananaTree01_Leaf_02
+    3300038: bananaTree01_Leaf_03
+    3300040: bananaTree01_Leaf_04
+    3300042: bananaTree01_Leaf_05
+    3300044: bananaTree01_Leaf_06
+    3300046: bananaTree01_Leaf_07
+    3300048: bananaTree01_Leaf_08
+    3300050: bananaTree01_Leaf_09
+    3300052: bananaTree01_smallLeaf_01
+    3300054: bananaTree01_smallLeaf_02
+    4300000: bananaTree01_Leaf09
+    4300002: bananaTree01_Leaf05
+    4300004: bananaTree01_trunk
+    4300006: bananaTree01_Leaf06
+    4300008: bananaTree01_Leaf01
+    4300010: bananaTree01_Leaf08
+    4300012: bananaTree01_Leaf04
+    4300014: bananaTree_01_Dried_Leafs
+    4300016: bananaTree01_smallLeaf02
+    4300018: bananaTree2_grass01
+    4300020: bananaTree2_grass02
+    4300022: bananaTree2_grass03
+    4300024: bananaTree2_grass04
+    4300026: bananaTree01_smallLeaf01
+    4300028: bananaTree01_Leaf02
+    4300030: bananaTree01_Leaf03
+    4300032: bananaTree01_Leaf07
+    4300034: bananaTree01_Leaf_09
+    4300036: bananaTree01_Leaf_05
+    4300038: bananaTree01_Leaf_06
+    4300040: bananaTree01_Leaf_01
+    4300042: bananaTree01_Leaf_08
+    4300044: bananaTree01_Leaf_04
+    4300046: bananaTree01_smallLeaf_02
+    4300048: bananaTree01_smallLeaf_01
+    4300050: bananaTree01_Leaf_02
+    4300052: bananaTree01_Leaf_03
+    4300054: bananaTree01_Leaf_07
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
